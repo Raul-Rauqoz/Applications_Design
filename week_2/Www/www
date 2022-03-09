@@ -1,0 +1,2 @@
+#! node
+console.log('test file www');
