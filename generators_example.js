@@ -29,4 +29,3 @@ let prueba = prueba_gen_();
 // console.log(prueba.next('yes'));
 // console.log(prueba.next('yes'));
 // console.log(prueba.next('nel'));
-//   
